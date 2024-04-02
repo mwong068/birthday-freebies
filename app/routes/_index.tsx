@@ -13,7 +13,7 @@ export default function Index() {
       <h1>Welcome to Remix</h1>
       <ul>
         <h1>
-          hi testing hi
+          hi testing hi huh
         </h1>
         <li>
           <a
